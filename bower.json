@@ -1,0 +1,30 @@
+{
+  "name": "test Bower",
+  "version": "0.0.1",
+  "authors": [
+    "Vladimir <kamenkov.vova@gmail.com>"
+  ],
+  "description": "test bower package",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bower",
+    "grunt",
+    "jquery",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "http://smartclick.by/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
